@@ -56,7 +56,7 @@ import {
   SafeAreaView,
 } from "react-native";
 import React, { useState } from "react";
-import Pagination from "";
+import Pagination from "react-native-custom-pagination";
 
 export default function MyPaginationComponent() {
   return (

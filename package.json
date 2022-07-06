@@ -1,0 +1,43 @@
+{
+  "name": "react-native-custom-pagination",
+  "version": "0.1.0",
+  "description": "custom pagination for react native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibilalchaudhary/react-native-custom-pagination.git"
+  },
+  "keywords": [
+    "react",
+    "pagination",
+    "ui",
+    "profile-page",
+    "custom",
+    "custompagination",
+    "custom-pagination",
+    "listview",
+    "reac-native",
+    "react",
+    "native",
+    "pagination",
+    "react-native",
+    "pagination",
+    "scrollview",
+    "flatlist",
+    "tabs",
+    "react-pagination",
+    "custom-react-pagination",
+    "custom-react-native-pagination",
+    "rn-pagination",
+    "rn-custom-pagination"
+  ],
+  "author": "ibilalchaudhary@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ibilalchaudhary/react-native-custom-pagination/issues"
+  },
+  "homepage": "https://github.com/ibilalchaudhary/react-native-custom-pagination#readme"
+}
