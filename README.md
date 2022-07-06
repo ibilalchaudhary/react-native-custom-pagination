@@ -7,10 +7,7 @@
 <p align="center">
 
  <img alt="react-native-pagination horizontal robot" src="./assests/video1.gif" width="208">
-</p>
-<p align="center">
-
- <img alt="react-native-pagination horizontal robot" src="./assests/video2.gif" width="208">
+  <img styles="margin-left: 20px" alt="react-native-pagination horizontal robot" src="./assests/video2.gif" width="208">
 </p>
 
 ## Getting Started
