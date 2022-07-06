@@ -1,20 +1,16 @@
 # React Native Custom Pagination
 
-### Horizontal
+### Default Examples Layout
 
 > To try these out yourself its prudy easy, Just open `examples/ios/*.xcodeproj` in Xcode, then press `Cmd + R`; you may edit `examples/index.ios.js` for switch cases.
 
 <p align="center">
 
  <img alt="react-native-pagination horizontal robot" src="./assests/video1.gif" width="208">
-  <img alt="react-native-pagination horizontal"  src="./assests/video1.gif" width="208">
 </p>
-
-### Vertical
-
 <p align="center">
- <img alt="react-native-pagination vertical" src="https://cdn.rawgit.com/garrettmac/images/a8e4b847/projects/react-native-pagination/react-native-pagination-vert.gif" width="208">
-  <img alt="react-native-pagination lighttheme" src="https://cdn.rawgit.com/garrettmac/images/a8e4b847/projects/react-native-pagination/react-native-pagination-vert-lighttheme.gif" width="208">
+
+ <img alt="react-native-pagination horizontal robot" src="./assests/video2.gif" width="208">
 </p>
 
 ## Getting Started
