@@ -85,4 +85,4 @@ export default function MyPaginationComponent() {
 
 ## Issues
 
-Feel free to [contact me](mailto:ibilalchaudhary@gmail,com) or [create an issue](https://github.com/ibilalchaudhari/react-native-custom-pagination/issues/new)
+Feel free to [contact me](mailto:ibilalchaudhary@gmail,com) or [create an issue](https://github.com/ibilalchaudhary/react-native-custom-pagination/issues/new)
